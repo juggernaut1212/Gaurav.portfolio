@@ -371,7 +371,7 @@ section .title::after{
 .skills-content .right .js::before{
     width: 50%;
 }
-.skills-content .right .ProductPhotography::before{
+.skills-content .right .Product::before{
     width: 80%;
 }
 .skills-content .right .Wordpress::before{
